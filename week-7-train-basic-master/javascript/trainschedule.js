@@ -3,11 +3,12 @@ $(document).ready(function(){
 
 
 var config = {
-    apiKey: "AIzaSyDOKiDoDUYN39d3AZN2isGTaCPQUzIcE20",
-    authDomain: "my-first-firebase-42f62.firebaseapp.com",
-    databaseURL: "https://my-first-firebase-42f62.firebaseio.com",
-    storageBucket: "my-first-firebase-42f62.appspot.com",
-    messagingSenderId: "603749747113"
+    apiKey: "AIzaSyAid7xlkMxoWMqBaZjxA3PIA69-ZYt2b8c",
+    authDomain: "train-5dcce.firebaseapp.com",
+    databaseURL: "https://train-5dcce.firebaseio.com",
+    projectId: "train-5dcce",
+    storageBucket: "train-5dcce.appspot.com",
+    messagingSenderId: "28937155490"
   };
 
 firebase.initializeApp(config);
